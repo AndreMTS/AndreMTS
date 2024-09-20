@@ -32,6 +32,13 @@ Skills:
     <img src="https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,postgres,mysql,webstorm,vscode,git,postman,kubernetes,docker,grafana,electron" />...
   </a>
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreMTS/AndreMTS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreMTS/AndreMTS/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreMTS/AndreMTS/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center">
   <a href="https://github.com/andremts">
     <img src="https://komarev.com/ghpvc/?username=andremts&color=blue&style=flat)" /> 
