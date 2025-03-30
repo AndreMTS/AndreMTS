@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=F3F700&lines=Olá!+eu+sou+o+André+Matos+😀)](https://git.io/typing-svg)
-
+![In a single picture](https://media.licdn.com/dms/image/v2/D4D16AQEwC1xtDaxYVw/profile-displaybackgroundimage-shrink_350_1400/B4DZXkUZu3G4AY-/0/1743292309683?e=1748476800&v=beta&t=PdeLlzcmO4Jzf0969O2hfG0cX4H2Op8a43UsJRj_26s)
 ## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
