@@ -1,4 +1,4 @@
-![In a single picture](https://media.licdn.com/dms/image/v2/D4D16AQEwC1xtDaxYVw/profile-displaybackgroundimage-shrink_350_1400/B4DZXkUZu3G4AY-/0/1743292309683?e=1748476800&v=beta&t=PdeLlzcmO4Jzf0969O2hfG0cX4H2Op8a43UsJRj_26s)
+![In a single picture]([https://media.licdn.com/dms/image/v2/D4D16AQEwC1xtDaxYVw/profile-displaybackgroundimage-shrink_350_1400/B4DZXkUZu3G4AY-/0/1743292309683?e=1748476800&v=beta&t=PdeLlzcmO4Jzf0969O2hfG0cX4H2Op8a43UsJRj_26s](https://media.licdn.com/dms/image/v2/D4D16AQEUbpnp56WhqQ/profile-displaybackgroundimage-shrink_350_1400/B4DZXkvT5NHwAY-/0/1743299367159?e=1749081600&v=beta&t=bxdKRUDBemP7QolEDVkH1g4WXXkFUmx2VHUr8D6tzZs))
 ## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
